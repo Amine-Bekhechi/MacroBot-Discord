@@ -1,0 +1,16 @@
+{
+  "name": "macro-bot",
+  "version": "1.0.0",
+  "description": "A discord.js bot that allows users to auto generate Nutrition Plans for themselves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdelmajid Amine Bekhechi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "mongodb": "^4.13.0",
+    "node-fetch": "^3.3.0"
+  }
+}
